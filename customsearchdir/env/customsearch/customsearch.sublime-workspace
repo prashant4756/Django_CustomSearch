@@ -1,0 +1,757 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"q",
+				"query"
+			],
+			[
+				"jso",
+				"json_response"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"te",
+				"text_result"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"Tw",
+				"Twitter_Consumer_Secret"
+			],
+			[
+				"Ac",
+				"Access_Token_Secret"
+			],
+			[
+				"mess",
+				"message_array"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"d",
+				"dumps"
+			],
+			[
+				"pos",
+				"posted_message"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"au",
+				"authentication"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"STA",
+				"STATICFILES_DIRS"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"MEdi",
+				"MEDIA_ROOT"
+			],
+			[
+				"stat",
+				"STATIC_ROOT"
+			],
+			[
+				"MED",
+				"MEDIA_URL"
+			],
+			[
+				"De",
+				"DEBUG"
+			],
+			[
+				"vi",
+				"views"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"pr",
+				"profileAdmin"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"Q",
+				"Qarr"
+			],
+			[
+				"Enum",
+				"EnumContainer"
+			],
+			[
+				"B",
+				"BookSize"
+			],
+			[
+				"sle",
+				"slength-i"
+			],
+			[
+				"s",
+				"slength"
+			],
+			[
+				"n",
+				"number"
+			],
+			[
+				"del",
+				"delimited"
+			],
+			[
+				"ch",
+				"CharField"
+			],
+			[
+				"max",
+				"max_digits"
+			],
+			[
+				"is",
+				"isArraySorted"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"int",
+				"intar"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"ic",
+				"include"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"co",
+				"countSubstrings"
+			],
+			[
+				"el",
+				"EllysPronunciation"
+			],
+			[
+				"ma",
+				"maxm"
+			],
+			[
+				"sw",
+				"swap1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "customsearch/settings.py",
+			"settings":
+			{
+				"buffer_size": 3509,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "googlesearch/admin.py",
+			"settings":
+			{
+				"buffer_size": 150,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "googlesearch/views.py",
+			"settings":
+			{
+				"buffer_size": 2332,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "[Status(ID=863322401626521600, ScreenName=surbhig663, Created=Sat May 13 09:17:54 +0000 2017, Text=u'RT @swapnikagupta: Anjun Tendulkar: \\u092a\\u093e\\u092a\\u093e \\u092e\\u0941\\u091d\\u0947 Justin Bieber \\u0926\\u0947\\u0916\\u0928\\u093e \\u0939\\u0948!\\n\\nSachin Tendulkar: \\u0905\\u0902\\u091c\\u0932\\u0940! \\u091c\\u093c\\u0930\\u093e \\u0906\\u0908\\u0928\\u093e \\u0932\\u093e\\u0928\\u093e \\u0905\\u0902\\u0926\\u0930 \\u0938\\u0947!\\n\\U0001f601\\U0001f601\\U0001f60d https://t.co/Po\\u2026'), Status(ID=863322371893207041, ScreenName=HARSHYUVI_12, Created=Sat May 13 09:17:47 +0000 2017, Text=u'@jabykoay @AcharaKirk @Moumita57 u will know all about sachin just watch this video.....and react....\\nhttps://t.co/1h8RHb8j8H'), Status(ID=863322279882706945, ScreenName=AficionadoYash, Created=Sat May 13 09:17:25 +0000 2017, Text=u'Aamir Khan and Sachin Tendulkar have THIS thing in common!'), Status(ID=863322211574317056, ScreenName=TendulkarAnand, Created=Sat May 13 09:17:09 +0000 2017, Text=u'RT @DrDipu88: #SachinKaFan Priceless moment receiving master @sachin_rt sirs blessings on his autobiography an autograph and wishes wow @Sa\\u2026'), Status(ID=863322119853154305, ScreenName=noimnotharsh, Created=Sat May 13 09:16:47 +0000 2017, Text=u'RT @AmbedkarCaravan: First 3 years of test matches career, avg. score - \\nBrahmin Sachin = 32.25\\nDalit Vinod Kambli = 54.20\\nKambli got OUT b\\u2026'), Status(ID=863322054182842368, ScreenName=VodafoneIN, Created=Sat May 13 09:16:32 +0000 2017, Text=u'@sachin872000 Hi Sachin! We have your details and are working on your concern. We will update you shortly. Thank you for your.. cont1'), Status(ID=863322020767039489, ScreenName=Aamir_KhanFC, Created=Sat May 13 09:16:24 +0000 2017, Text=u'RT @dnaAfterHrs: #AamirKhan and #SachinTendulkar have THIS thing in common! https://t.co/0o7qIgGNT3 https://t.co/fwQbbEPPpP'), Status(ID=863321867763032064, ScreenName=Vivek_Thug, Created=Sat May 13 09:15:47 +0000 2017, Text=u'RT @dnaAfterHrs: #AamirKhan and #SachinTendulkar have THIS thing in common! https://t.co/0o7qIgGNT3 https://t.co/fwQbbEPPpP'), Status(ID=863321820640022528, ScreenName=dreamer_bony, Created=Sat May 13 09:15:36 +0000 2017, Text=u\"@nitinsachinist @sachin_rt @SachinTheFilm @mipaltan @Team10dulkar @akshusachinist @CricFit It's awesome . #SachinKaFan\"), Status(ID=863321754185457664, ScreenName=EuSuntAnanth, Created=Sat May 13 09:15:20 +0000 2017, Text=u'RT @nitinsachinist: My Sketch My love for my God @sachin_rt sir \\U0001f60d\\nI am biggest #SachinKaFan \\nWaiting for the movie @SachinTheFilm https://t\\u2026'), Status(ID=863321702117158914, ScreenName=Ramchandrajalw1, Created=Sat May 13 09:15:08 +0000 2017, Text=u'@VipinINC @sachin_with @SachinPilot Thanks'), Status(ID=863321625479061504, ScreenName=kishore_offl, Created=Sat May 13 09:14:49 +0000 2017, Text=u'RT @nitinsachinist: My Sketch My love for my God @sachin_rt sir \\U0001f60d\\nI am biggest #SachinKaFan \\nWaiting for the movie @SachinTheFilm https://t\\u2026'), Status(ID=863321600107495424, ScreenName=SpartanSportsAU, Created=Sat May 13 09:14:43 +0000 2017, Text=u'#masterblaster #spartan @sachin_rt signing new edition Spartan #cricket bat #ipl #sachin #SachinTendulkar\\u2026 https://t.co/NCIU8gIVam'), Status(ID=863321560022700032, ScreenName=dreamer_bony, Created=Sat May 13 09:14:34 +0000 2017, Text=u'RT @nitinsachinist: My Sketch My love for my God @sachin_rt sir \\U0001f60d\\nI am biggest #SachinKaFan \\nWaiting for the movie @SachinTheFilm https://t\\u2026'), Status(ID=863321437204959232, ScreenName=AamirKhanIndFC, Created=Sat May 13 09:14:05 +0000 2017, Text=u'Aamir Khan and Sachin Tendulkar have THIS thing in common! - Daily News &amp; Analysis https://t.co/wtCwaZDgbd\\u2026 https://t.co/WmFqkWPSdI')]\n",
+			"settings":
+			{
+				"buffer_size": 3721,
+				"line_ending": "Unix",
+				"name": "[Status(ID=863322401626521600, ScreenName=surbhig6"
+			}
+		},
+		{
+			"file": "googlesearch/urls.py",
+			"settings":
+			{
+				"buffer_size": 324,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\"\"\"customsearch URL Configuration\n\nThe `urlpatterns` list routes URLs to views. For more information please see:\n    https://docs.djangoproject.com/en/1.11/topics/http/urls/\nExamples:\nFunction views\n    1. Add an import:  from my_app import views\n    2. Add a URL to urlpatterns:  url(r'^$', views.home, name='home')\nClass-based views\n    1. Add an import:  from other_app.views import Home\n    2. Add a URL to urlpatterns:  url(r'^$', Home.as_view(), name='home')\nIncluding another URLconf\n    1. Import the include() function: from django.conf.urls import url, include\n    2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))\n\"\"\"\nfrom django.conf.urls import url\nfrom django.contrib import admin\nfrom django.conf.urls import include\nurlpatterns = [\n    url(r'^admin/', admin.site.urls),\n    url(r'^googlesearch/', include('googlesearch.urls')),\n]\n	",
+			"file": "customsearch/urls.py",
+			"file_size": 863,
+			"file_write_time": 1493125077000000,
+			"settings":
+			{
+				"buffer_size": 864,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "googlesearch/models.py",
+			"settings":
+			{
+				"buffer_size": 122,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/prashant/Desktop/customsearchdir/env/customsearch/googlesearch/backup.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/lines/views.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/lines/models.py",
+		"/home/prashant/Desktop/api key google custom search.txt",
+		"/home/prashant/Desktop/customsearchdir/env/customsearch/googlesearch/urls.py",
+		"/home/prashant/Desktop/customsearchdir/env/customsearch/customsearch/urls.py",
+		"/home/prashant/Desktop/Django Working project me/django_social_media/project/env/socialmedia/friendship/views.py",
+		"/home/prashant/Desktop/Django Working project me/django_social_media/project/env/socialmedia/friendship/urls.py",
+		"/home/prashant/Desktop/Django Working project me/django_social_media/project/env/socialmedia/friendship/admin.py",
+		"/home/prashant/Desktop/Django Working project me/django_social_media/project/env/socialmedia/friendship/serializers.py",
+		"/home/prashant/Desktop/Django Working project me/django_social_media/project/env/socialmedia/socialmedia/urls.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/analytics/models.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/businessUserInteraction/models.py",
+		"/home/prashant/Desktop/project/env/socialmedia/author/admin.py",
+		"/home/prashant/Desktop/project/env/socialmedia/author/models.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/consumers/urls.py",
+		"/home/prashant/Desktop/project/env/socialmedia/socialmedia/urls.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/lines/urls.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/qhop/urls.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/qhop/settings.py",
+		"/home/prashant/Desktop/photoapp/env/src/users/models.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/analytics/views.py",
+		"/home/prashant/Desktop/project/env/src/profiles/views.py",
+		"/home/prashant/Desktop/project/env/src/profiles/models.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/analytics/admin.py",
+		"/home/prashant/Desktop/photoapp/env/src/users/apps.py",
+		"/home/prashant/Desktop/django-api-rest-and-angular-master/example/api/admin.py",
+		"/home/prashant/Desktop/photoapp/env/src/users/admin.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/consumers/models.py",
+		"/home/prashant/Desktop/photoapp/env/src/photoproj/settings.py",
+		"/home/prashant/Desktop/drf-demo-master/project/apps/core/urls.py",
+		"/home/prashant/Desktop/drf-demo-master/project/apps/core/views.py",
+		"/home/prashant/Desktop/drf-demo-master/project/apps/core/serializers.py",
+		"/home/prashant/Desktop/drf-demo-master/project/apps/core/models.py",
+		"/home/prashant/Desktop/django-api-rest-and-angular-master/example/api/models.py",
+		"/home/prashant/Desktop/django-api-rest-and-angular-master/example/api/serializers.py",
+		"/home/prashant/Desktop/django-api-rest-and-angular-master/example/api/permissions.py",
+		"/home/prashant/Desktop/django-api-rest-and-angular-master/manage.py",
+		"/home/prashant/Desktop/project/env/src/ecommerce/settings.py",
+		"/home/prashant/Desktop/project/env/src/authentication/admin.py",
+		"/home/prashant/Desktop/project/env/src/authentication/models.py",
+		"/home/prashant/Desktop/project/env/src/ecommerce/urls.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/consumers/admin.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/consumers/views.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/consumers/serializers.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/notifications/models.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/notifications/views.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/notifications/serializers.py",
+		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/consumers/tests.py",
+		"/home/prashant/Desktop/project/env/src/profiles/admin.py",
+		"/home/prashant/Desktop/project/env/src/profiles/templates/home.html",
+		"/home/prashant/Desktop/EMSDjango/EMSapp/admin.py",
+		"/home/prashant/Desktop/Test.java",
+		"/home/prashant/Desktop/java/Horse.java",
+		"/home/prashant/Desktop/java/Animal.java",
+		"/home/prashant/Desktop/java/Enum.java",
+		"/home/prashant/Desktop/java/MainMethod.java",
+		"/home/prashant/Desktop/java/a.txt",
+		"/home/prashant/Desktop/java/Array.java",
+		"/home/prashant/Desktop/java/Text.java",
+		"/home/prashant/Desktop/java/Array.",
+		"/home/prashant/Desktop/onezero.c",
+		"/home/prashant/Desktop/python.py",
+		"/home/prashant/Desktop/autofill_django/myproject/myproject/urls.py",
+		"/home/prashant/Desktop/autofill_django/myproject/autofillApp/file.txt",
+		"/home/prashant/Desktop/autofill_django/myproject/autofillApp/templates/autofillApp/post_list.html",
+		"/home/prashant/Desktop/autofill_django/myproject/autofillApp/models.py",
+		"/home/prashant/Desktop/autofill_django/myproject/autofillApp/urls.py",
+		"/home/prashant/Desktop/autofill_django/myproject/autofillApp/views.py",
+		"/home/prashant/Desktop/hello.py",
+		"/home/prashant/Desktop/autofill_django/myproject/autofillApp/templates/autofillApp/get_drugs.html",
+		"/home/prashant/Downloads/pythonvirtualenv-master/firstblog/models.py",
+		"/home/prashant/Downloads/pythonvirtualenv-master/firstblog/templates/firstblog/librarydetails.html",
+		"/home/prashant/Downloads/pythonvirtualenv-master/firstblog/urls.py",
+		"/home/prashant/Downloads/pythonvirtualenv-master/firstblog/views.py",
+		"/home/prashant/Downloads/pythonvirtualenv-master/mysite/urls.py",
+		"/home/prashant/Downloads/pythonvirtualenv-master/firstblog/templates/firstblog/new/addnewbook.html",
+		"/home/prashant/Downloads/pythonvirtualenv-master/firstblog/templates/firstblog/post_list.html",
+		"/home/prashant/Desktop/autofill_django/myproject/autofillApp/apps.py",
+		"/home/prashant/Desktop/autofill_django/myproject/myproject/settings.py",
+		"/home/prashant/Desktop/autofill_django/myproject/autofillApp/admin.py",
+		"/tmp/crontab.E6WG3a/crontab",
+		"/tmp/crontab.JKBp6n/crontab",
+		"/tmp/crontab.2GwPoU/crontab",
+		"/tmp/crontab.Ul8hFu/crontab",
+		"/tmp/crontab.O5RjPD/crontab",
+		"/tmp/crontab.1onjto/crontab",
+		"/tmp/crontab.HEQlev/crontab",
+		"/tmp/crontab.d0RP2r/crontab",
+		"/tmp/crontab.wHVhj8/crontab",
+		"/tmp/crontab.pwTacc/crontab",
+		"/tmp/crontab.fzKcui/crontab",
+		"/tmp/crontab.skUpml/crontab",
+		"/home/prashant/Desktop/qhopdjango/qhop-djnago-updated-single-model/qhop/analytics/views.py",
+		"/home/prashant/Desktop/qhopdjango/qhop-djnago-updated-single-model/qhop/db.sqlite3",
+		"/tmp/crontab.BmlvAs/crontab",
+		"/tmp/crontab.eaHGft/crontab",
+		"/tmp/crontab.4HV2ey/crontab",
+		"/home/prashant/Desktop/SortedArray.c",
+		"/home/prashant/Desktop/height.c",
+		"/home/prashant/Desktop/toh.c",
+		"/home/prashant/Desktop/qhopdjango/env/qhop/lines/serializers.py",
+		"/home/prashant/Desktop/qhopdjango/env/qhop/lines/views.py",
+		"/home/prashant/Desktop/test.c",
+		"/home/prashant/Desktop/qhopdjango/env/qhop/analytics/views.py",
+		"/home/prashant/Desktop/qhopdjango/env/qhop/consumers/views.py",
+		"/home/prashant/Desktop/bitmap.c",
+		"/home/prashant/Desktop/a.c",
+		"/home/prashant/Desktop/revise.c",
+		"/home/prashant/Desktop/2.c",
+		"/home/prashant/Desktop/fileIO1.c",
+		"/home/prashant/Desktop/b.c",
+		"/home/prashant/Desktop/1.c",
+		"/home/prashant/Desktop/backup.c",
+		"/home/prashant/Desktop/ascii_in.txt",
+		"/home/prashant/Desktop/testoutput.txt",
+		"/home/prashant/Desktop/binaryfile.raw",
+		"/home/prashant/Desktop/test.raw",
+		"/home/prashant/Desktop/test/1.c",
+		"/home/prashant/Desktop/binaryfile",
+		"/home/prashant/pj.py",
+		"/home/prashant/pj.sh",
+		"/home/prashant/Desktop/youtube-mp3",
+		"/home/prashant/Desktop/dynamic.c",
+		"/home/prashant/Desktop/convert in mp3.txt",
+		"/usr/bin/youtube-mp3",
+		"/home/prashant/Desktop/pyramid.c",
+		"/home/prashant/Desktop/clab/test.c"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"find_entries_in_regular_line_by_user",
+			"search",
+			"COLORS",
+			"get_consumer_user_by_phone_number",
+			"create_consumer_user",
+			"get_consumer_user_by_phone_number",
+			"create_consumer_user",
+			"get_consumer_user_by_phone_number",
+			"create_consumer_user\nconsumer",
+			"create_consumer_user\ncreate_consumer_user",
+			"create_consumer_user",
+			"get_in_regular_line",
+			"()",
+			"get_all",
+			"get_all_regular_for_business",
+			"RegularLineEntry",
+			"FinishedLineEntrySerializer",
+			"user_is_admin",
+			"getAllLines",
+			"analyse",
+			"create_analytics_for_business",
+			"get_last_analytic",
+			"contrib",
+			"contrib	",
+			"create_analytics_for_business",
+			"get_in_regular_line",
+			"check_if_in_regular_line",
+			"update_positions",
+			"update_skipped_positions",
+			"move_from_regular_to_active",
+			"move_from_regular_to_finished",
+			"SkippedLineEntry",
+			"move_from_regular_to_skipped",
+			"get_regular_line_count",
+			"get_in_regular_line",
+			"check_if_in_regular_line",
+			"add_marker_in_line",
+			"authenticate_user",
+			"user_is_admin",
+			"get_all_regular_for_business",
+			"find_entries_in_regular_line_by_user",
+			"get_consumer",
+			"authenticate_user",
+			"get_businesses_since_last_call",
+			");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "customsearch/settings.py",
+					"settings":
+					{
+						"buffer_size": 3509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3509,
+								3509
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro-master/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2052.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "googlesearch/admin.py",
+					"settings":
+					{
+						"buffer_size": 150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro-master/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "googlesearch/views.py",
+					"settings":
+					{
+						"buffer_size": 2332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2094,
+								2094
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro-master/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 626.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 3721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2619,
+								2619
+							]
+						],
+						"settings":
+						{
+							"auto_name": "[Status(ID=863322401626521600, ScreenName=surbhig6",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "googlesearch/urls.py",
+					"settings":
+					{
+						"buffer_size": 324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro-master/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "customsearch/urls.py",
+					"settings":
+					{
+						"buffer_size": 864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								864,
+								864
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro-master/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "googlesearch/models.py",
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro-master/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
