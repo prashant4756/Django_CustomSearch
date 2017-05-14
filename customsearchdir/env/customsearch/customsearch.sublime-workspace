@@ -4,6 +4,46 @@
 		"selected_items":
 		[
 			[
+				"sta",
+				"status"
+			],
+			[
+				"o",
+				"out"
+			],
+			[
+				"sear",
+				"search_duckgo"
+			],
+			[
+				"se",
+				"search_duckgo"
+			],
+			[
+				"j",
+				"join"
+			],
+			[
+				"first",
+				"first_result"
+			],
+			[
+				"relat",
+				"related_topics"
+			],
+			[
+				"duc",
+				"duckgo_data"
+			],
+			[
+				"tw",
+				"twitter_data"
+			],
+			[
+				"goo",
+				"google_data"
+			],
+			[
 				"q",
 				"query"
 			],
@@ -34,10 +74,6 @@
 			[
 				"mess",
 				"message_array"
-			],
-			[
-				"sta",
-				"status"
 			],
 			[
 				"d",
@@ -223,24 +259,15 @@
 			"file": "googlesearch/views.py",
 			"settings":
 			{
-				"buffer_size": 2332,
+				"buffer_size": 3704,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "[Status(ID=863322401626521600, ScreenName=surbhig663, Created=Sat May 13 09:17:54 +0000 2017, Text=u'RT @swapnikagupta: Anjun Tendulkar: \\u092a\\u093e\\u092a\\u093e \\u092e\\u0941\\u091d\\u0947 Justin Bieber \\u0926\\u0947\\u0916\\u0928\\u093e \\u0939\\u0948!\\n\\nSachin Tendulkar: \\u0905\\u0902\\u091c\\u0932\\u0940! \\u091c\\u093c\\u0930\\u093e \\u0906\\u0908\\u0928\\u093e \\u0932\\u093e\\u0928\\u093e \\u0905\\u0902\\u0926\\u0930 \\u0938\\u0947!\\n\\U0001f601\\U0001f601\\U0001f60d https://t.co/Po\\u2026'), Status(ID=863322371893207041, ScreenName=HARSHYUVI_12, Created=Sat May 13 09:17:47 +0000 2017, Text=u'@jabykoay @AcharaKirk @Moumita57 u will know all about sachin just watch this video.....and react....\\nhttps://t.co/1h8RHb8j8H'), Status(ID=863322279882706945, ScreenName=AficionadoYash, Created=Sat May 13 09:17:25 +0000 2017, Text=u'Aamir Khan and Sachin Tendulkar have THIS thing in common!'), Status(ID=863322211574317056, ScreenName=TendulkarAnand, Created=Sat May 13 09:17:09 +0000 2017, Text=u'RT @DrDipu88: #SachinKaFan Priceless moment receiving master @sachin_rt sirs blessings on his autobiography an autograph and wishes wow @Sa\\u2026'), Status(ID=863322119853154305, ScreenName=noimnotharsh, Created=Sat May 13 09:16:47 +0000 2017, Text=u'RT @AmbedkarCaravan: First 3 years of test matches career, avg. score - \\nBrahmin Sachin = 32.25\\nDalit Vinod Kambli = 54.20\\nKambli got OUT b\\u2026'), Status(ID=863322054182842368, ScreenName=VodafoneIN, Created=Sat May 13 09:16:32 +0000 2017, Text=u'@sachin872000 Hi Sachin! We have your details and are working on your concern. We will update you shortly. Thank you for your.. cont1'), Status(ID=863322020767039489, ScreenName=Aamir_KhanFC, Created=Sat May 13 09:16:24 +0000 2017, Text=u'RT @dnaAfterHrs: #AamirKhan and #SachinTendulkar have THIS thing in common! https://t.co/0o7qIgGNT3 https://t.co/fwQbbEPPpP'), Status(ID=863321867763032064, ScreenName=Vivek_Thug, Created=Sat May 13 09:15:47 +0000 2017, Text=u'RT @dnaAfterHrs: #AamirKhan and #SachinTendulkar have THIS thing in common! https://t.co/0o7qIgGNT3 https://t.co/fwQbbEPPpP'), Status(ID=863321820640022528, ScreenName=dreamer_bony, Created=Sat May 13 09:15:36 +0000 2017, Text=u\"@nitinsachinist @sachin_rt @SachinTheFilm @mipaltan @Team10dulkar @akshusachinist @CricFit It's awesome . #SachinKaFan\"), Status(ID=863321754185457664, ScreenName=EuSuntAnanth, Created=Sat May 13 09:15:20 +0000 2017, Text=u'RT @nitinsachinist: My Sketch My love for my God @sachin_rt sir \\U0001f60d\\nI am biggest #SachinKaFan \\nWaiting for the movie @SachinTheFilm https://t\\u2026'), Status(ID=863321702117158914, ScreenName=Ramchandrajalw1, Created=Sat May 13 09:15:08 +0000 2017, Text=u'@VipinINC @sachin_with @SachinPilot Thanks'), Status(ID=863321625479061504, ScreenName=kishore_offl, Created=Sat May 13 09:14:49 +0000 2017, Text=u'RT @nitinsachinist: My Sketch My love for my God @sachin_rt sir \\U0001f60d\\nI am biggest #SachinKaFan \\nWaiting for the movie @SachinTheFilm https://t\\u2026'), Status(ID=863321600107495424, ScreenName=SpartanSportsAU, Created=Sat May 13 09:14:43 +0000 2017, Text=u'#masterblaster #spartan @sachin_rt signing new edition Spartan #cricket bat #ipl #sachin #SachinTendulkar\\u2026 https://t.co/NCIU8gIVam'), Status(ID=863321560022700032, ScreenName=dreamer_bony, Created=Sat May 13 09:14:34 +0000 2017, Text=u'RT @nitinsachinist: My Sketch My love for my God @sachin_rt sir \\U0001f60d\\nI am biggest #SachinKaFan \\nWaiting for the movie @SachinTheFilm https://t\\u2026'), Status(ID=863321437204959232, ScreenName=AamirKhanIndFC, Created=Sat May 13 09:14:05 +0000 2017, Text=u'Aamir Khan and Sachin Tendulkar have THIS thing in common! - Daily News &amp; Analysis https://t.co/wtCwaZDgbd\\u2026 https://t.co/WmFqkWPSdI')]\n",
-			"settings":
-			{
-				"buffer_size": 3721,
-				"line_ending": "Unix",
-				"name": "[Status(ID=863322401626521600, ScreenName=surbhig6"
 			}
 		},
 		{
 			"file": "googlesearch/urls.py",
 			"settings":
 			{
-				"buffer_size": 324,
+				"buffer_size": 159,
 				"line_ending": "Unix"
 			}
 		},
@@ -293,6 +320,7 @@
 	"file_history":
 	[
 		"/home/prashant/Desktop/customsearchdir/env/customsearch/googlesearch/backup.py",
+		"/home/prashant/Desktop/customsearchdir/env/customsearch/googlesearch/backup2.py",
 		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/lines/views.py",
 		"/home/prashant/Desktop/qhop-djnago-updated-single-model/qhop/lines/models.py",
 		"/home/prashant/Desktop/api key google custom search.txt",
@@ -418,8 +446,7 @@
 		"/home/prashant/Desktop/dynamic.c",
 		"/home/prashant/Desktop/convert in mp3.txt",
 		"/usr/bin/youtube-mp3",
-		"/home/prashant/Desktop/pyramid.c",
-		"/home/prashant/Desktop/clab/test.c"
+		"/home/prashant/Desktop/pyramid.c"
 	],
 	"find":
 	{
@@ -437,6 +464,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"get",
 			"find_entries_in_regular_line_by_user",
 			"search",
 			"COLORS",
@@ -561,68 +589,43 @@
 					"file": "googlesearch/views.py",
 					"settings":
 					{
-						"buffer_size": 2332,
+						"buffer_size": 3704,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2094,
-								2094
+								477,
+								477
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Djaneiro-master/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 626.0,
+						"translation.y": 96.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"settings":
-					{
-						"buffer_size": 3721,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2619,
-								2619
-							]
-						],
-						"settings":
-						{
-							"auto_name": "[Status(ID=863322401626521600, ScreenName=surbhig6",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "googlesearch/urls.py",
 					"settings":
 					{
-						"buffer_size": 324,
+						"buffer_size": 159,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								324,
-								324
+								157,
+								157
 							]
 						],
 						"settings":
@@ -636,7 +639,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"file": "customsearch/urls.py",
 					"settings":
 					{
@@ -664,7 +667,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "googlesearch/models.py",
 					"settings":
 					{
